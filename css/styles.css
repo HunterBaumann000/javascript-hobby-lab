@@ -1,4 +1,17 @@
 /* Default link styling */
+
+header {
+    color:teal;
+}
+
+footer {
+    color:teal;
+}
+
+.Didyouknow {
+     font-style:italic;
+}
+
 a:link {
     color: #0271fb;
 }
@@ -36,6 +49,7 @@ main {
 }
 
 aside {
+    background-image: url("BikingHTMLthing.jpg");
     width: 30%;
     float: left;
     background-color: #DFDFDF;
